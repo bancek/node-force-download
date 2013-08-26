@@ -1,5 +1,5 @@
 {
-  "name": "node-force-download",
+  "name": "force-download",
   "version": "0.1.0",
   "description": "HTTP Force download for Node.js",
   "main": "index.js",
